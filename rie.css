@@ -1,0 +1,17 @@
+body {
+  background-color: grey;
+  border-style: solid;
+  border-radius: 5px;
+}
+h1 {
+  background-color: skyblue;
+  text-align: center;
+  border-radius: 6px;
+  margin:5px;
+}
+
+p {
+  margin: 6px;
+  font-family: Sans-Serif;
+  font-size: 20px;
+}
